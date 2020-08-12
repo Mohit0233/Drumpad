@@ -2,7 +2,7 @@
 Just a drumpad with random color on buttons(onClick)
 
 ## Look
-<img src="https://github.com/Mohit0233/CalculatorKotlin/blob/master/Images%20for%20README.md/Light_Mode_Output.jpg" width="200">
+<img src="https://github.com/Mohit0233/Drumpad/blob/master/Image/look.jpg" width="200">
 
 
 ## Setup App Development Environment
